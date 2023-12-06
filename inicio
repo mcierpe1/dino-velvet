@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<title>Marco Cierpe</title>
+
+</head>
+
+<body>
+
+<h1>Marco Cierpe</h1>
+
+<section id="articulos">
+
+**<h2>Artículos</h2>**
+
+**<ul>**
+
+  ****
+
+**</ul>**
+</section>
+
+<section id="videos">
+
+**<h2>Videos</h2>
+
+**<ul>**
+
+  ****
+
+**</ul>**
+</section>
+
+</body>
+
+</html>
